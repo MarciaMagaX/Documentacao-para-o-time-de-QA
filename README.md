@@ -7,3 +7,5 @@ Este repositório foi criado com o intuito de compartilhar alguns modelos de doc
 📗 2. Reporte de Testes
 
 📙 3. Reporte de Bugs
+
+Esta documentação é de autoria de edinetesousa, QA a quem sigo e me autorizou o clone.
